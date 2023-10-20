@@ -1,2 +1,4 @@
 # ran-storerobbery
-Upon hearing of Ran's passing and realizing no one could update the script, I've taken the initiative to address these issues. I don't claim ownership or seek credit; I've shared the script to prevent its waste. RIP, Ran.
+Let me be absolutely clear; I do not assert ownership of this script, nor do I seek acknowledgment or assistance. The script itself is a testament to Ran's dedication and talent, and it would be a tragedy for it to fall into disuse. Thus, I've made the decision to share it with the community, to ensure that Ran's work lives on and continues to benefit others.
+
+Ran, may you rest in peace, and your legacy endure through the continued use and appreciation of your remarkable script.
